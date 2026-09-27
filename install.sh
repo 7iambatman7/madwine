@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-repo=Ring0lw/madwine
+repo=7iambatman7/madwine
 dir="${XDG_DATA_HOME:-$HOME/.local/share}/madwine"
 app="$dir/Madwine.AppImage"
 
